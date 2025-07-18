@@ -1,5 +1,4 @@
-This project implements a Food Ordering and Delivery System using the MVC (Model-View-Controller) design pattern. It provides a command-line interface (CLI) for customers and delivery personnel to interact with the system.
-
+This project implements a Food Ordering and Delivery System using the MVC (Model-View-Controller) pattern.The project uses SOLID priciples and design patterns.
 The system supports the following key use cases:
 
 1)Placing an Order
